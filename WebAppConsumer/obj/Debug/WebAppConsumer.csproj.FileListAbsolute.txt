@@ -1,0 +1,4 @@
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\WebAppConsumer\bin\WebAppConsumer.dll
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\WebAppConsumer\bin\WebAppConsumer.pdb
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\WebAppConsumer\obj\Debug\WebAppConsumer.dll
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\WebAppConsumer\obj\Debug\WebAppConsumer.pdb

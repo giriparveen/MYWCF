@@ -1,0 +1,4 @@
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MYWCF\bin\MYWCF.dll
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MYWCF\bin\MYWCF.pdb
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MYWCF\obj\Debug\MYWCF.dll
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MYWCF\obj\Debug\MYWCF.pdb

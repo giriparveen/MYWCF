@@ -1,0 +1,9 @@
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\bin\Debug\MyConsoleApplication.exe
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\bin\Debug\MyConsoleApplication.pdb
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\bin\Debug\ClassLibrary1.dll
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\bin\Debug\ClassLibrary1.pdb
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.exe
+C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.pdb
+C:\mySite\gitprojects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.exe
+C:\mySite\gitprojects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.pdb
