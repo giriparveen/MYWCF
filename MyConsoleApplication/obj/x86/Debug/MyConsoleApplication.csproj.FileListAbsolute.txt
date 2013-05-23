@@ -7,3 +7,5 @@ C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleAppli
 C:\Users\parveen.giri\Documents\Visual Studio 2010\Projects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.pdb
 C:\mySite\gitprojects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.exe
 C:\mySite\gitprojects\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.pdb
+C:\RepoProject\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.exe
+C:\RepoProject\MYWCF\MyConsoleApplication\obj\x86\Debug\MyConsoleApplication.pdb
